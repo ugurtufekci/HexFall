@@ -5,7 +5,7 @@ public class Hex : MonoBehaviour {
     //coordinates in the map
     public int x;
     public int y;
-
+    
     public Hex [] GetNeighbours()
     {
         //
